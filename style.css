@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 .flag{
+    margin:auto;
+    top:20px;
     position: relative;
     height: 600px;
     width: 900px;
@@ -19,14 +21,17 @@
     background-color: green;
 }
 .circle{
-    border: 2px solid blue;
-    height: 180px;
+    /* height: 180px;
     width: 180px;
-    border-radius: 50%;
+    border-radius: 50%; */
     position: absolute;
-    top:205px;
-    left:100px;
+    top:210px;
+    left:350px;
 }
 .height{
     height: 200px;
+}
+.circle-img{
+    height: 185px;
+    width: 185px;
 }
