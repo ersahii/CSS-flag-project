@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flag{
+    position: relative;
+    height: 600px;
+    width: 900px;
+    border: 2px solid black;
+}
+.saffron-color{
+    background-color: orange;
+}
+.white-color{
+    background-color: #fff;
+}
+.green-color{
+    background-color: green;
+}
+.circle{
+    border: 2px solid blue;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    position: absolute;
+    top:205px;
+    left:100px;
+}
+.height{
+    height: 200px;
+}
